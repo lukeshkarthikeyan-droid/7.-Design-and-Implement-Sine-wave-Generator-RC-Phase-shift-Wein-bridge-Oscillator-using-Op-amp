@@ -63,15 +63,41 @@ Rf = 15K *2=30KΩ
 3.	Measure the output wave frequency and amplitude.
 
 
-  **CIRCUIT DIAGRAM**
+  **RC PHASE SHIFT OSCILLATOR CIRCUIT DIAGRAM:**
+  <img width="1280" height="789" alt="WhatsApp Image 2026-09-14 at 9 03 52 PM" src="https://github.com/user-attachments/assets/f0178fad-207c-4937-a515-944e139ef5dd" />
+
 
 
   **MODEL GRAPH:**
+  <img width="1280" height="759" alt="WhatsApp Image 2026-09-14 at 9 04 04 PM" src="https://github.com/user-attachments/assets/543625f4-3678-426c-9ec1-43369c4c43e3" />
+
 
 
   **TABULATION:**
+  
+ <img width="1280" height="756" alt="WhatsApp Image 2026-09-14 at 9 04 15 PM" src="https://github.com/user-attachments/assets/3cca61f3-2105-4e7d-ad80-60fd488e69a5" />
+ **GRAPH:**
+ 
+ <img width="1280" height="605" alt="WhatsApp Image 2026-09-14 at 9 04 29 PM" src="https://github.com/user-attachments/assets/f07a8dff-fdd2-488c-a67e-926d29ff715a" />
  
 
+ **WEIN BRIDGE OSCILLATOR CIRCUIT DIAGRAM:**
+ <img width="1275" height="927" alt="WhatsApp Image 2026-09-14 at 9 04 44 PM" src="https://github.com/user-attachments/assets/f28d43ec-e882-41aa-99da-5169769ddea3" />
+ 
+**MODEL GRAPH:**
+<img width="1232" height="703" alt="WhatsApp Image 2026-09-14 at 9 04 58 PM" src="https://github.com/user-attachments/assets/51d465fe-ff09-442a-998b-7b5932941863" />
+
+**TABULATION:**
+
+<img width="1280" height="616" alt="WhatsApp Image 2026-09-14 at 9 05 12 PM" src="https://github.com/user-attachments/assets/b21cbbff-4a35-48de-9bc5-65a13a327daf" />
+
+**GRAPH:**
+
+<img width="1280" height="718" alt="WhatsApp Image 2026-09-14 at 9 05 26 PM" src="https://github.com/user-attachments/assets/5de4bf9b-97c6-475e-95f2-c9c34c3d5eb6" />
+
+
+
+ 
 
 
 
